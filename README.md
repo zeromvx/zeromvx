@@ -4,17 +4,22 @@
 I am Web Developer
 
 ### 💻 Tech Stack:
-Front:
-- HTML / CSS / SASS
-- GULP / Webpack
-- JS / TypeScript
-- React / Redux / MobX
-- Bootstrap / Material UI
-- Cypress
-
-Back: 
-- Node / Express
-- MongoDB
+<div>
+  <p>  
+    Front:
+    - HTML / CSS / SASS
+    - GULP / Webpack
+    - JS / TypeScript
+    - React / Redux / MobX
+    - Bootstrap / Material UI
+    - Cypress
+  </p>
+  <p>
+    Back: 
+    - Node / Express
+    - MongoDB
+  </p>
+</div>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeromvx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sergey-karmanov-151950176/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sergey_karmanov___/)  
 
