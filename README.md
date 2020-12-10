@@ -24,5 +24,3 @@ I am Web Developer
 <img height="160em" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=zeromvx&show_icons=true)" />
 <img height="160em" align="right" alt="Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeromvx&layout=compact" />
 
-###
-![Profile views](https://gpvc.arturio.dev/zeromvx)  
