@@ -11,6 +11,7 @@ Front:
 - React / Redux / MobX
 - Bootstrap / Material UI
 - Cypress
+
 Back: 
 - Node / Express
 - MongoDB
