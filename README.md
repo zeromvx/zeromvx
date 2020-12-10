@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Sergey</h1>
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu76kY5RaFfAY4IOjSWUjSkjcGGa-MuStAPw&usqp=CAU)
 
 I am Web Developer
